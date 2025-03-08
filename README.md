@@ -12,7 +12,7 @@ Application for playing Tic Tac Toe Game, developed as the final project of the 
 The user accesses the page and will find the 3x3 grid where to play Tic Tac Toe. Each square of the grid if clicked will show the O or the X, the first click is always the X, the second an O, and so on until one of the player wins the game or nobody wins resulting in a draw.
 
 ## App Link
-[Click here to launch the App](dist/index.html)
+[Click here to launch the App](https://raffaelebini.github.io/Progetto-Vue-01/)
 
 ## Screenshots
 ![App Screenshot](./src/assets/ScreenshotTicTacToe.png)
