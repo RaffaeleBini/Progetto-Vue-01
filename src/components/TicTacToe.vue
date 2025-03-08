@@ -128,6 +128,7 @@
     display: flex;
     flex-direction: column;
     margin: 20px 0;
+    background-color: goldenrod;
   }
   
   .board-row {
