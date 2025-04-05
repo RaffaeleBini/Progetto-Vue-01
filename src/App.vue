@@ -1,12 +1,9 @@
-<!-- App.vue -->
 <template>
-  <div class="app">
-    <TicTacToe />
-  </div>
+  <TicTacToeGame />
 </template>
 
 <script lang="ts" setup>
-import TicTacToe from './components/TicTacToe.vue'
+import TicTacToeGame from '@/components/TicTacToeGame.vue';
 </script>
 
 <style>
